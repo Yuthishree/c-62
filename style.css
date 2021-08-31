@@ -1,0 +1,59 @@
+body
+{
+    text-align: center;
+}
+h1
+{
+    font-size: 45px;
+}
+.line
+{
+    width: 100px;
+    height: 7px;
+    color:#000000;
+    margin:8px auto;
+}
+#apps
+{
+    width: 100%;
+    height: 800px;
+    background-color: #abe3ff;
+}
+
+#ChatBot
+{
+  width: 100%;
+    height: 800px;
+    background-color: #fff5ab;  
+}
+
+.line
+{
+    width: 100px;
+    height: 7px;
+    background-color:#000000;
+    margin:8px auto;
+}
+#myCarousel
+{
+    background-color: #ff7578;
+}
+#myCarousel img
+{
+  width: 392px;
+  height:400px;
+    margin-top: 10px;
+}
+#myCarousel p
+{
+    font-size:20px;
+    color:white;
+}
+h2
+{
+   font-size: 35px 
+}
+h5
+{
+    font-size: 20px
+}
